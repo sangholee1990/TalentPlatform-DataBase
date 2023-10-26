@@ -1,0 +1,4 @@
+insert into DMS02.TB_SYS_INFO (CUSTOMER_LINK_NUMBER, PWR_SVN_TRG, GAS_SVN_TRG, WTR_SVN_TRG, ALARM_USE_YN, ALARM_SOUND_YN, ALARM_VBRTN_YN, ALARM_OPTM_YN, USE_YN, REG_DATE, MOD_DATE, TMP, TMP2, TMP3, TMP4, TMP5, TMP6, TMP7, TMP8, TMP9, TMP10)
+values  (1, 10, 0, 0, 'Y', 'Y', 'Y', 'Y', 'Y', '2022-12-31 22:43:53', '2022-11-01 13:27:47', 0, 0, 0, 0, 0, null, null, null, null, null),
+        (2, 10, 0, 0, 'N', 'N', 'N', 'N', 'Y', '2022-12-31 22:43:53', '2022-11-01 13:27:47', 0, 0, 0, 0, 0, null, null, null, null, null),
+        (3, 10, 0, 0, 'N', 'N', 'Y', 'Y', 'Y', '2022-12-31 22:43:53', '2022-11-01 13:27:47', 0, 0, 0, 0, 0, null, null, null, null, null);
